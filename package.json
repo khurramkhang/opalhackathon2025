@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@netlify/functions": "^2.4.1",
-    "@optimizely-opal/opal-tools-sdk": "^0.1.0-dev",
+    "@optimizely-opal/opal-tools-sdk": "^0.1.2-dev",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "express-basic-auth": "^1.2.1",
