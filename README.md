@@ -116,7 +116,7 @@ Ready to deploy your custom tools service? Choose your preferred platform:
 
 ### Quick Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kunalshetye/opal-custom-tools)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/khurramkhang/opalhackathon2025)
 
 ### Deployment Guides
 
