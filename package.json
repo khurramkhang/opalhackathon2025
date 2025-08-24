@@ -1,5 +1,5 @@
 {
-  "name": "opal-custom-tools",
+  "name": "opalhackathon",
   "packageManager": "yarn@4.3.1",
   "main": "dist/main.js",
   "private": true,
