@@ -68,10 +68,10 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@optimizely-opal/opal-tools-sdk@^0.1.2-dev":
-  version "0.1.2-dev"
-  resolved "https://registry.yarnpkg.com/@optimizely-opal/opal-tools-sdk/-/opal-tools-sdk-0.1.2-dev.tgz#c7d7f2b14c3c5daa5e28e2177e2eb7715222f41e"
-  integrity sha512-W6W56aLsC1kQ7eVgb7zB5nz/t4AEIYyhovcKUJ5/gjPC0Rx3QhRJitLmtypJ5vUOkpPp6bzNTZC1HkC30z3sHA==
+"@optimizely-opal/opal-tools-sdk@^0.1.0-dev":
+  version "0.1.0-dev"
+  resolved "https://registry.yarnpkg.com/@optimizely-opal/opal-tools-sdk/-/opal-tools-sdk-0.1.0-dev.tgz#4d28d9239ab7de51d2e0003a28bd45d3f9cbb4e6"
+  integrity sha512-UacLHsvC1x67qMoGPCcqGaPMfSGQMTj5dF4UrcOTU3XKhpiCrAxwMijPDkszKm8i2nFB4jldL5PV7s0tYZ17Cg==
   dependencies:
     axios "^1.6.0"
     express "^4.18.2"
@@ -1550,7 +1550,7 @@ split@0.3:
   dependencies:
     through "2"
 
-sqlite3@*:
+sqlite3@*, sqlite3@^5.1.7:
   version "5.1.7"
   resolved "https://registry.yarnpkg.com/sqlite3/-/sqlite3-5.1.7.tgz#59ca1053c1ab38647396586edad019b1551041b7"
   integrity sha512-GGIyOiFaG+TUra3JIfkI/zGP8yZYLPQ0pl1bH+ODjiX57sPhrLU5sQJn1y9bDKZUFYkX1crlrPfSYt0BKKdkog==

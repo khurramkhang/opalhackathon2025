@@ -6,7 +6,7 @@ This guide walks you through deploying your Opal custom tools service to Netlify
 
 Deploy this project to Netlify with a single click:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/khurramkhang/opalhackathon2025)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kunalshetye/opal-custom-tools)
 
 ## Prerequisites
 
