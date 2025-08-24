@@ -1,5 +1,5 @@
 {
-  "name": "opalhackathon",
+  "name": "opalhackathon2025",
   "packageManager": "yarn@4.3.1",
   "main": "dist/main.js",
   "private": true,
@@ -9,7 +9,7 @@
     "dev": "tsc-watch --onSuccess \"node build/main.js\""
   },
   "dependencies": {
-    "@netlify/functions": "2.8.2",
+    "@netlify/functions": "^2.4.1",
     "@optimizely-opal/opal-tools-sdk": "^0.1.0-dev",
     "cors": "^2.8.5",
     "express": "^4.18.2",
